@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+	
+	<style name="MyTheme" parent="@android:style/Theme.Material.Light">
+		<!--item name="android:textSize">20sp</item-->
+		<!--item name="android:textColor">#FFFFFF</item-->
+		<!--item name="android:hint">"load from style 3"</item-->
+		<!--item name="android:textStyle">bold|italic</item-->
+		<item name="android:typeface">monospace</item>>
+		<item name="android:background">#57ABF8</item>
+
+	</style>
+	
+</resources>
